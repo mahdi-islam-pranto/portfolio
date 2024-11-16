@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-## Features
-Education Information
-Skills 
-projects
+## Whats in the app
+Education Information,
+Skills,
+projects,
 
 
